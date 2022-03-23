@@ -18,3 +18,37 @@
 `AutoML:` Learn and adopt all the autoML tools available in GCP and differentiate with the models build.
 
 `Looker:` Basics Looker, Connection, Building Dashboards.
+
+**1. Maths**
+   <li> Linear Algebra (Matrix, Vector)</li>
+   <li> Statistics</li>
+   <li> Probability</li>
+   
+**2. Learn Python & its Libraries**
+<li> Numpy </li>
+<li> Pandas </li>
+
+**3. Learn ML Algorithms**
+- Supervised vs Unsupervised vs Reinforcement
+- Linear Regression, Logistic Regression, Clustering
+- KNN (K Nearest Neighbours)
+- SVM (Support Vector Machine)
+- Decision Trees
+- Random Forests
+- Overfitting, Underfitting
+- Regularization, Gradient Descent, Slope
+- Confusion Matrix
+
+**4. Data Preprocessing (for higher accuracy)**
+- Handling Null Values
+- Standardization
+- Handling Categorical Values
+- One-Hot Encoding
+- Feature Scaling
+
+**5. Learn ML libraries**
+- Scikit learn
+- Matplotlib
+- Tensorflow for DL
+
+**6. Practice, Practice, Practice (Kaggle)**
