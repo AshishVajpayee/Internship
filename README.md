@@ -1,8 +1,7 @@
 # Internship
-Python : basics, Loops, Conditional Statements
-<p>Python : basics, Loops, Conditional Statements, Data Structures (List, Dict, Tuple, set), Special Functions (Apply, lambda, map, reduce), Dict comprehension, List Comprehension, Web Scraping, Numpy, Pandas, SK-learn, Flask, FastAPI, WebScraping using NLP, Rest API, tensorflow, matplotlib, pytorch, virtual Env.</p>
+Python : basics, Loops, Conditional Statements, Data Structures (List, Dict, Tuple, set), Special Functions (Apply, lambda, map, reduce), Dict comprehension, List Comprehension, Web Scraping, Numpy, Pandas, SK-learn, Flask, FastAPI, WebScraping using NLP, Rest API, tensorflow, matplotlib, pytorch, virtual Env.
 
-<p>Git: using git, push, pull, clone and Cookie cutter; Use it in real life project</p>
+Git: using git, push, pull, clone and Cookie cutter; Use it in real life project
 
 GCP Basics: different GCP tools and where to use, applications of it. Differentiate between each tool.
 
