@@ -19,14 +19,19 @@
 
 `Looker:` Basics Looker, Connection, Building Dashboards.
 
+`Road Map`
+<br>
+
 **1. Maths**
-   <li> Linear Algebra (Matrix, Vector)</li>
-   <li> Statistics</li>
-   <li> Probability</li>
+ - Linear Algebra (Matrix, Vector)
+ - Statistics
+ - Probability
+ <br>
    
 **2. Learn Python & its Libraries**
-<li> Numpy </li>
-<li> Pandas </li>
+- Numpy 
+- Pandas
+<br>
 
 **3. Learn ML Algorithms**
 - Supervised vs Unsupervised vs Reinforcement
@@ -38,6 +43,7 @@
 - Overfitting, Underfitting
 - Regularization, Gradient Descent, Slope
 - Confusion Matrix
+<br>
 
 **4. Data Preprocessing (for higher accuracy)**
 - Handling Null Values
@@ -45,10 +51,12 @@
 - Handling Categorical Values
 - One-Hot Encoding
 - Feature Scaling
+<br>
 
 **5. Learn ML libraries**
 - Scikit learn
 - Matplotlib
 - Tensorflow for DL
+<br>
 
 **6. Practice, Practice, Practice (Kaggle)**
