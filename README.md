@@ -19,14 +19,19 @@
 
 `Looker:` Basics Looker, Connection, Building Dashboards.
 
+`Road Map`
+<br>
+
 **1. Maths**
-   <li> Linear Algebra (Matrix, Vector)</li>
-   <li> Statistics</li>
-   <li> Probability</li>
+ - Linear Algebra (Matrix, Vector)
+ - Statistics
+ - Probability
+ <br>
    
 **2. Learn Python & its Libraries**
-<li> Numpy </li>
-<li> Pandas </li>
+- Numpy 
+- Pandas
+<br>
 
 **3. Learn ML Algorithms**
 - Supervised vs Unsupervised vs Reinforcement
@@ -38,6 +43,7 @@
 - Overfitting, Underfitting
 - Regularization, Gradient Descent, Slope
 - Confusion Matrix
+<br>
 
 **4. Data Preprocessing (for higher accuracy)**
 - Handling Null Values
@@ -45,10 +51,30 @@
 - Handling Categorical Values
 - One-Hot Encoding
 - Feature Scaling
+<br>
 
 **5. Learn ML libraries**
 - Scikit learn
 - Matplotlib
 - Tensorflow for DL
+<br>
 
 **6. Practice, Practice, Practice (Kaggle)**
+
+ **[⬆ Back to Top](#Internship)**
+ 
+ 
+## Resources :
+1. [Maths PDF](http://www.maths.qmul.ac.uk/~pjc/notes/linalg.pdf)
+2. [Maths](https://www.mathsbox.org.uk/twi/astats.pdf)
+3. [Maths YouTube Tutorials](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
+4. [ML by Google](https://developers.google.com/machine-learning/crash-course) 
+5. [Python Basics](https://www.datacamp.com/courses/intro-to-python-for-data-science)
+6. [Stanford Course by Andrew ng](https://www.coursera.org/learn/machine-learning) 
+7. [ML](https://madewithml.com/)
+8. [Data Preprocessing from Java Point](https://www.javatpoint.com/data-preprocessing-machine-learning)
+9. [Scikit Learn](https://scikit-learn.org/stable/)
+10.[Tensorflow](https://www.tensorflow.org/)
+11.[Kaggle](https://www.kaggle.com/)
+
+ **[⬆ Back to Top](#Internship)**
