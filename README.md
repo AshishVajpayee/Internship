@@ -74,7 +74,7 @@
 7. [ML](https://madewithml.com/)
 8. [Data Preprocessing from Java Point](https://www.javatpoint.com/data-preprocessing-machine-learning)
 9. [Scikit Learn](https://scikit-learn.org/stable/)
-10.[Tensorflow](https://www.tensorflow.org/)
-11.[Kaggle](https://www.kaggle.com/)
+10. [Tensorflow](https://www.tensorflow.org/)
+11. [Kaggle](https://www.kaggle.com/)
 
  **[⬆ Back to Top](#Internship)**
