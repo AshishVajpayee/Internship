@@ -456,11 +456,3 @@ print ("y.shape: ", y.shape)  # notice extra set of brackets are gone
      [4 5 6]]
     y.shape:  (2, 3)
     
-
-```@article{madewithml,
-    author       = {Goku Mohandas},
-    title        = { NumPy - Made With ML },
-    howpublished = {\url{https://madewithml.com/}},
-    year         = {2021}
-}
-```
